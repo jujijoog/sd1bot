@@ -4,13 +4,12 @@ This is a discord bot that uses a json file as input, grabs a random json object
 and posts it in a given discord channel when any chatter triggers the bot with a text command.
 The json file included is a complete scrape of all messages sent in Acoustic Mafia server over the 
 course of about a year from a friend and fellow discord user, who passed away recently. When triggered the bot will display a random message sent by SD1. 
-As of right now the only command accepted is !sd which triggers the random object/message. 
 
 Triggers/Commands
 
 
 1. !sd -- Displays random sd1 message from acoustic mafia server scraped logs. 
-
+2. !search "Term-Goes-Here" -- Searches for keyword(s) and provides 4 timestamped results per request.
 
 Example:
 
