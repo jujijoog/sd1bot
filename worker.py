@@ -43,6 +43,6 @@ async def search(ctx, phrase : str):
 
 if __name__ == "__main__":
     try:
-        bot.run('NDMyMDM3Nzg3MTI3MjUwOTU0.DannQw.RPA7NHrXaRutfWGtZsPNEdYjBR8')
+        bot.run('NDM0MTUyNTkxMjg3NTE3MjE0.DbGP0Q.8W6JWgCKfPwVnhOYozkJmPL55NI')
     except:
         pass
